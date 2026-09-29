@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790578276409,
+      "tag": "0000_greedy_greymalkin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790579249489,
+      "tag": "0001_flippant_squadron_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790581329457,
+      "tag": "0002_gray_mister_sinister",
+      "breakpoints": true
+    }
+  ]
+}
